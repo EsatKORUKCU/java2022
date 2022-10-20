@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\odev\bin\Debug\net6.0\odev.exe
+C:\Users\USER\Desktop\odev\bin\Debug\net6.0\odev.deps.json
+C:\Users\USER\Desktop\odev\bin\Debug\net6.0\odev.runtimeconfig.json
+C:\Users\USER\Desktop\odev\bin\Debug\net6.0\odev.dll
+C:\Users\USER\Desktop\odev\bin\Debug\net6.0\odev.pdb
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\odev.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\odev.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\odev.AssemblyInfo.cs
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\odev.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\odev.dll
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\refint\odev.dll
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\odev.pdb
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\odev.genruntimeconfig.cache
+C:\Users\USER\Desktop\odev\obj\Debug\net6.0\ref\odev.dll
